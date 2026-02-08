@@ -1,0 +1,17 @@
+body {
+  background: linear-gradient(135deg, #7B2CBF, #FF9800);
+  font-family: Arial, sans-serif;
+  color: white;
+  text-align: center;
+}
+
+#app {
+  margin-top: 100px;
+}
+
+button {
+  padding: 15px 30px;
+  font-size: 18px;
+  border: none;
+  border-radius: 10px;
+}
